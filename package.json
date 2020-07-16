@@ -1,7 +1,7 @@
 {
   "name": "tylersbot",
   "version": "1.0.0",
-  "description": "My bot",
+  "description": "My bot -- Credit to Pyn AKA P3E on Github :)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
