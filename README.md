@@ -1,5 +1,6 @@
 # tylersbot
-# Shifted over to JS
+-----------------------------------------------
+Shifted over to JS
 - Made in Javascript,
 - Made using discord.js (what did you expect?).
 ------------------------------------------------
